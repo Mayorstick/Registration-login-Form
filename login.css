@@ -1,0 +1,20 @@
+form{
+    background-color: white !important;
+    padding: 15px !important;
+    margin-top: 50px !important;
+    border-radius: 5px !important;
+}
+
+body{
+    background-color: aquamarine !important;
+    
+}
+
+h1{
+    color: green !important;
+}
+
+button{
+    margin-left: 140px !important;
+    border-radius: 3px !important;
+}

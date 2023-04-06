@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+body{
+    font-family: 'roboto ' !important;
+    background-color: gray !important;
+}
+
+form{
+    background-color: aliceblue !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    margin-top: 20px !important;
+    border-radius: 10px !important;
+}
